@@ -1,0 +1,32 @@
+[
+  {
+    "code": "GMRR250115",
+    "name": "Gomez Reef",
+    "length": "4 nights / 5 days",
+    "start": "2025-01-15T00:00:00.000Z",
+    "resort": "Hotel Playa Grande",
+    "perPerson": "799.00",
+    "image": "reef1.jpg",
+    "description": "<p>Gomez Reef is a beautiful coral reef...</p>"
+  },
+  {
+    "code": "SURR250220",
+    "name": "Sunken Reef",
+    "length": "6 nights / 7 days",
+    "start": "2025-02-20T00:00:00.000Z",
+    "resort": "Aqualuna Suite",
+    "perPerson": "1199.00",
+    "image": "reef2.jpg",
+    "description": "<p>Sunken Reef offers incredible diving experiences...</p>"
+  },
+  {
+    "code": "PACR250310",
+    "name": "Pacific Reef",
+    "length": "5 nights / 6 days",
+    "start": "2025-03-10T00:00:00.000Z",
+    "resort": "Pacific Sands Resort",
+    "perPerson": "999.00",
+    "image": "reef3.jpg",
+    "description": "<p>Pacific Reef is known for crystal clear waters...</p>"
+  }
+]
